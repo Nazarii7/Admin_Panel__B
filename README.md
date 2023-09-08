@@ -1,2 +1,1 @@
-# Admin_Panel\_\_
-# Admin_Panel__B
+# Admin_Panel\_\_B
